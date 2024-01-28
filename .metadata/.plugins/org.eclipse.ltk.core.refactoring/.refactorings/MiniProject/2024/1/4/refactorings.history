@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MiniProject/개냥고치BGM&apos; to &apos;BGM&apos;" description="Rename resource &apos;개냥고치BGM&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="개냥고치BGM" name="BGM" stamp="1706198595478" updateReferences="true"/>
+</session>
